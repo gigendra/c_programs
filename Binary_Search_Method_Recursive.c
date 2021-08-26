@@ -1,4 +1,3 @@
-/* d
 /* documentation section */
     //this program implements the binary search method recursive way)                        
     //binary search is performed on a sorted array 
