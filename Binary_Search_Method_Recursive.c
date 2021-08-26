@@ -16,7 +16,7 @@ void print();
 void BinarySearch(int *p,int lb,int ub,int n);
 
 /* main function section */
-int main()
+void main()
 {
  input();
  print(); 
