@@ -1,6 +1,6 @@
 /* documentation section */
     //this program implements the linear search method                         
-    //the array is asummed to be unordered 
+    //the array is asummed to be sorted
     //the memmory is dynamically allocated for the array elemnts using the function calloc()
 
 /* link section */
@@ -15,7 +15,7 @@ void print();
 void LinearSearch(int *p,int lim);
 
 /* main function section */
-int main()
+void main()
 {
  input();
  print(); 
