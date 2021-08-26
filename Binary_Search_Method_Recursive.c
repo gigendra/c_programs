@@ -23,7 +23,7 @@ int main()
  BinarySearch(p,l,u,n); 
 }
 
-/* user defined program section */
+/* user defined function section */
 void input()
 {
     
