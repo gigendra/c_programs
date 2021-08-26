@@ -15,14 +15,14 @@ void print();
 void LinearSearch(int *p,int lim);
 
 /* main function section */
-int main()
+void main()
 {
  input();
  print(); 
  LinearSearch(p,l); 
 }
 
-/* user defined program section */
+/* user defined function section */
 void input()
 {
 	printf("enter the limit for the array \n");
