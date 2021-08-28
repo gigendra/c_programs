@@ -6,7 +6,7 @@ main()
   char name[20];
   int i,j,l;
   printf("enter the string \n");
-  scanf("%s",name);
+  gets(name); 
   l=strlen(name);
   for(i=0,j=l-1;i<(l/2);i++,j--)
   {
