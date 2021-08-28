@@ -1,4 +1,3 @@
-/* d
 /* documentation section */
     //this program implements the binary search method recursive way)                        
     //binary search is performed on a sorted array 
@@ -6,7 +5,6 @@
 
 /* link section */
 #include<stdio.h>
-
 #include<stdlib.h>
 
 /* global declaration section */
@@ -24,7 +22,7 @@ int main()
  BinarySearch(p,l,u,n); 
 }
 
-/* user defined program section */
+/* user defined functions section */
 void input()
 {
     
