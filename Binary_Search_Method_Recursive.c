@@ -5,7 +5,6 @@
 
 /* link section */
 #include<stdio.h>
-
 #include<stdlib.h>
 
 /* global declaration section */
